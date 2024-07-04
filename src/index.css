@@ -1,0 +1,43 @@
+.todoInput {
+  width: 80% ;
+  margin: 20px;
+  
+}
+.plusIcon{
+  
+  width: 15px;
+  height: 15px;
+  
+ 
+  
+}
+.plusIcondiv{
+ 
+  height: 25px;
+  margin: 20px;
+  
+}
+.todocard{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-right: 100px;
+ 
+}
+.todoitem{
+  width: 80% ;
+  margin: 20px;
+}
+.buttons {
+  
+  
+  padding: 5px 10px;
+  margin-left: 80%;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  
+}
+.btn btn-light{
+  background-color: pink;
+}
